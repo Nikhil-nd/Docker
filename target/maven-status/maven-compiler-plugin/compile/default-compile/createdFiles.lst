@@ -1,0 +1,4 @@
+com\nd\simplewebapp\SimplewebappApplication.class
+com\nd\simplewebapp\Controller\HomeController.class
+com\nd\simplewebapp\Entity\Products.class
+com\nd\simplewebapp\Controller\ProductController.class
